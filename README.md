@@ -1,3 +1,3 @@
 # hello-world
-Hi Humans,
+Hi Humans.
 I am going to explore my knowledge.
